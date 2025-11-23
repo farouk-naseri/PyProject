@@ -1,0 +1,13 @@
+Month,Product_A,Product_B,Product_C,Product_D,Total_Sales,Average_Sales,Month_over_Month_Growth_%,Quarter,Max_Sales_Product,Min_Sales_Product
+January,88,65,52,18,223,55.75,0.0,Q1,Product_A,Product_D
+February,78,69,31,48,226,56.5,1.3452914798206317,Q1,Product_A,Product_C
+March,64,53,41,27,185,46.25,-18.14159292035398,Q1,Product_A,Product_D
+April,92,32,44,13,181,45.25,-2.1621621621621623,Q2,Product_A,Product_D
+May,57,51,46,34,188,47.0,3.8674033149171283,Q2,Product_A,Product_D
+June,70,31,47,23,171,42.75,-9.042553191489366,Q2,Product_A,Product_D
+July,88,53,35,18,194,48.5,13.450292397660824,Q3,Product_A,Product_D
+August,68,73,34,35,210,52.5,8.247422680412363,Q3,Product_B,Product_C
+September,72,59,22,11,164,41.0,-21.904761904761905,Q3,Product_A,Product_D
+October,60,67,56,29,212,53.0,29.268292682926834,Q4,Product_B,Product_D
+November,60,31,26,37,154,38.5,-27.35849056603774,Q4,Product_A,Product_C
+December,73,50,40,16,179,44.75,16.233766233766247,Q4,Product_A,Product_D
